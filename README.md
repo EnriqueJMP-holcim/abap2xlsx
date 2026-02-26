@@ -1,3 +1,7 @@
+# Renamed from "excel" to "xslx2"
+
+Source: `src/abap2xlsx/**`
+
 # abap2xlsx - Read and generate Excel Spreadsheets with ABAP
 
 For general information please refer to the blog series [abap2xlsx - Generate your professional Excel spreadsheet from ABAP](http://scn.sap.com/community/abap/blog/2010/07/12/abap2xlsx--generate-your-professional-excel-spreadsheet-from-abap) and the [documentation](https://abap2xlsx.github.io/abap2xlsx/).
